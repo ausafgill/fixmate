@@ -1,0 +1,57 @@
+[
+  {
+    "id": 1,
+    "name": "Sarah Johnson",
+    "location": "Downtown",
+    "rating": 5,
+    "comment": "Fixmate did an excellent job fixing our kitchen sink. Professional, punctual, and affordable. Highly recommend!",
+    "service": "Plumbing",
+    "avatar": null
+  },
+  {
+    "id": 2,
+    "name": "Michael Chen",
+    "location": "Westside",
+    "rating": 5,
+    "comment": "Great experience with their electrical work. They installed new lighting throughout our home and everything looks amazing.",
+    "service": "Electrical",
+    "avatar": null
+  },
+  {
+    "id": 3,
+    "name": "Emily Rodriguez",
+    "location": "North End",
+    "rating": 5,
+    "comment": "The painting job exceeded our expectations. Clean, professional, and they finished on time. Will definitely use again!",
+    "service": "Painting",
+    "avatar": null
+  },
+  {
+    "id": 4,
+    "name": "David Thompson",
+    "location": "Eastside",
+    "rating": 5,
+    "comment": "Fixed our drywall after water damage. You can't even tell there was a problem. Excellent craftsmanship!",
+    "service": "Drywall Repair",
+    "avatar": null
+  },
+  {
+    "id": 5,
+    "name": "Lisa Anderson",
+    "location": "South Park",
+    "rating": 5,
+    "comment": "They built custom shelving for our living room. Beautiful work and very reasonable pricing. Very satisfied!",
+    "service": "Carpentry",
+    "avatar": null
+  },
+  {
+    "id": 6,
+    "name": "James Wilson",
+    "location": "Central",
+    "rating": 5,
+    "comment": "Regular maintenance service keeps our home in perfect condition. Reliable and trustworthy team.",
+    "service": "General Maintenance",
+    "avatar": null
+  }
+]
+

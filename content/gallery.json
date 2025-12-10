@@ -1,0 +1,87 @@
+[
+  {
+    "id": 1,
+    "title": "Kitchen Renovation",
+    "category": "General",
+    "description": "Complete kitchen cabinet installation and finishing",
+    "image": "/assets/images/kitchen.jpg"
+  },
+  {
+    "id": 2,
+    "title": "Bathroom Remodel",
+    "category": "Plumbing",
+    "description": "Modern bathroom fixture installation",
+    "image": "/assets/images/plumber.jpg"
+  },
+  {
+    "id": 3,
+    "title": "Living Room Painting",
+    "category": "General",
+    "description": "Interior painting with custom color scheme",
+    "image": "/assets/images/painting.jpg"
+  },
+  {
+    "id": 4,
+    "title": "Custom Shelving",
+    "category": "General",
+    "description": "Built-in shelving unit installation",
+    "image": "/assets/images/shelving.jpg"
+  },
+  {
+    "id": 5,
+    "title": "Electrical Upgrade",
+    "category": "Electrical",
+    "description": "Modern lighting installation throughout home",
+    "image": "/assets/images/lighting.jpeg"
+  },
+  {
+    "id": 6,
+    "title": "Exterior Painting",
+    "category": "General",
+    "description": "Complete exterior house painting",
+    "image": "/assets/images/male-builder-uniform-helmet-gloves-painting-wall-with-roller-back-view.jpg"
+  },
+  {
+    "id": 7,
+    "title": "Pipe Installation",
+    "category": "Plumbing",
+    "description": "New water line installation and repair",
+    "image": "/assets/images/male_plumber.jpg"
+  },
+  {
+    "id": 8,
+    "title": "Deck Construction",
+    "category": "General",
+    "description": "Custom deck building and finishing",
+    "image": "/assets/images/construction.jpg"
+  },
+  {
+    "id": 9,
+    "title": "Circuit Panel Upgrade",
+    "category": "Electrical",
+    "description": "Electrical panel replacement and upgrade",
+    "image": "/assets/images/electric_grid.jpg"
+  },
+  {
+    "id": 10,
+    "title": "Leak Repair",
+    "category": "Plumbing",
+    "description": "Emergency leak detection and repair",
+    "image": "/assets/images/plumber.jpg"
+  },
+  {
+    "id": 11,
+    "title": "Outdoor Lighting",
+    "category": "Electrical",
+    "description": "Landscape and security lighting installation",
+    "image": "/assets/images/electrician.jpg"
+  },
+  {
+    "id": 12,
+    "title": "Faucet Replacement",
+    "category": "Plumbing",
+    "description": "Modern faucet and fixture replacement",
+    "image": "/assets/images/faucet_kitchen.jpg"
+  }
+]
+

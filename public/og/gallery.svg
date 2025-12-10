@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630" role="img" aria-labelledby="title desc">
+  <title id="title">FixMate Dubai - Gallery</title>
+  <desc id="desc">Open graph image for FixMate Dubai gallery page.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0B66FF" />
+      <stop offset="100%" stop-color="#FF7A18" />
+    </linearGradient>
+    <linearGradient id="glow" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#ffffff" stop-opacity="0.24" />
+      <stop offset="100%" stop-color="#ffffff" stop-opacity="0" />
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="630" fill="url(#bg)" />
+  <circle cx="200" cy="140" r="200" fill="url(#glow)" opacity="0.34" />
+  <circle cx="1000" cy="520" r="210" fill="url(#glow)" opacity="0.32" />
+  <rect x="80" y="80" width="1040" height="470" rx="28" ry="28" fill="#ffffff" opacity="0.05" stroke="#ffffff" stroke-opacity="0.12" />
+  <g fill="#ffffff">
+    <text x="110" y="155" font-family="Inter, Arial, sans-serif" font-size="28" font-weight="700" letter-spacing="0.04em">
+      FixMate Dubai
+    </text>
+    <text x="110" y="235" font-family="Inter, Arial, sans-serif" font-size="60" font-weight="800">
+      Project Gallery
+    </text>
+    <text x="110" y="300" font-family="Inter, Arial, sans-serif" font-size="30" font-weight="600" opacity="0.93">
+      Before-and-after results across Dubai homes.
+    </text>
+  </g>
+  <g fill="#ffffff" opacity="0.9">
+    <rect x="110" y="350" width="260" height="12" rx="6" />
+    <rect x="390" y="350" width="120" height="12" rx="6" />
+    <rect x="540" y="350" width="140" height="12" rx="6" />
+    <rect x="110" y="380" width="240" height="12" rx="6" />
+    <rect x="380" y="380" width="170" height="12" rx="6" />
+    <rect x="110" y="410" width="200" height="12" rx="6" />
+  </g>
+  <rect x="880" y="455" width="240" height="70" rx="16" ry="16" fill="#ffffff" opacity="0.18" />
+  <text x="915" y="500" font-family="Inter, Arial, sans-serif" font-size="26" font-weight="700" fill="#ffffff">
+    View the Work
+  </text>
+</svg>

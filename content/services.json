@@ -1,0 +1,75 @@
+[
+  {
+    "id": 1,
+    "title": "Plumbing Services",
+    "description": "Expert plumbing repairs, installations, and maintenance for your home.",
+    "icon": "Wrench",
+    "features": [
+      "Leak repairs",
+      "Fixture installation",
+      "Drain cleaning",
+      "Water heater service"
+    ]
+  },
+  {
+    "id": 2,
+    "title": "Electrical Work",
+    "description": "Safe and reliable electrical repairs and installations by licensed professionals.",
+    "icon": "Zap",
+    "features": [
+      "Outlet installation",
+      "Light fixture installation",
+      "Circuit breaker repair",
+      "Wiring updates"
+    ]
+  },
+  {
+    "id": 3,
+    "title": "Carpentry",
+    "description": "Custom carpentry solutions for your home improvement needs.",
+    "icon": "Hammer",
+    "features": [
+      "Custom shelving",
+      "Cabinet installation",
+      "Door and window repair",
+      "Trim work"
+    ]
+  },
+  {
+    "id": 4,
+    "title": "Painting",
+    "description": "Interior and exterior painting services with quality finishes.",
+    "icon": "Paintbrush",
+    "features": [
+      "Interior painting",
+      "Exterior painting",
+      "Cabinet refinishing",
+      "Wall preparation"
+    ]
+  },
+  {
+    "id": 5,
+    "title": "Drywall Repair",
+    "description": "Professional drywall installation and repair services.",
+    "icon": "Square",
+    "features": [
+      "Hole patching",
+      "Texture matching",
+      "New drywall installation",
+      "Water damage repair"
+    ]
+  },
+  {
+    "id": 6,
+    "title": "General Maintenance",
+    "description": "Comprehensive home maintenance to keep everything running smoothly.",
+    "icon": "Settings",
+    "features": [
+      "HVAC maintenance",
+      "Gutter cleaning",
+      "Caulking and sealing",
+      "General repairs"
+    ]
+  }
+]
+
