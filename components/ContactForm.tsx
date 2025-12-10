@@ -67,7 +67,7 @@ Sent from FixMate Dubai website`;
       <div className="mb-6">
         <h2 className="text-2xl font-semibold">Send a Message</h2>
         <p className="text-muted-foreground">
-          Fill out the form and we'll get back to you via WhatsApp.
+          Fill out the form and we&apos;ll get back to you via WhatsApp.
         </p>
       </div>
 

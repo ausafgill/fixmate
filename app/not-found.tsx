@@ -14,7 +14,7 @@ export default function NotFound() {
         <p className="text-sm uppercase tracking-[0.2rem] text-muted-foreground">Error 404</p>
         <h1 className="text-4xl md:text-5xl font-semibold text-foreground">Page not found</h1>
         <p className="text-muted-foreground max-w-xl">
-          The page you requested doesn't exist. Let’s get you back to our services and support.
+          The page you requested doesn&apos;t exist. Let’s get you back to our services and support.
         </p>
       </div>
       <div className="flex gap-4">

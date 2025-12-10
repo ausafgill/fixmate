@@ -38,8 +38,8 @@ export default function ContactPage() {
         </p>
         <h1 className="text-4xl md:text-5xl font-semibold">Get in Touch</h1>
         <p className="text-muted-foreground max-w-2xl mx-auto">
-          We're here to help with repairs, upgrades, and everything in between.
-          Reach out and we'll respond quickly.
+          We&apos;re here to help with repairs, upgrades, and everything in between.
+          Reach out and we&apos;ll respond quickly.
         </p>
       </header>
 
@@ -62,7 +62,7 @@ export default function ContactPage() {
             <h3 className="text-xl font-semibold">Service Area</h3>
             <p className="text-muted-foreground">
               Proudly serving the local community and surrounding neighborhoods.
-              If you're nearby, we can help.
+              If you&apos;re nearby, we can help.
             </p>
             <ul className="space-y-2 text-sm text-muted-foreground">
               <li className="flex items-center gap-2">

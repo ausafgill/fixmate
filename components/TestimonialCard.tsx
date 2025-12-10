@@ -1,5 +1,6 @@
 import { motion, useReducedMotion } from "framer-motion";
 import { Star, User } from "lucide-react";
+import Image from "next/image";
 
 type Testimonial = {
   id: number;
@@ -67,9 +68,11 @@ export default function TestimonialCard({ testimonial, index = 0 }: TestimonialC
         {/* Avatar */}
         <div className="flex-shrink-0">
           {testimonial.avatar ? (
-            <img
+            <Image
               src={testimonial.avatar}
               alt={testimonial.name}
+              width={48}
+              height={48}
               className="w-10 h-10 sm:w-12 sm:h-12 rounded-full object-cover"
             />
           ) : (

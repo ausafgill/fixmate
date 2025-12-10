@@ -184,7 +184,7 @@ export default function Home() {
               Why Choose Us
             </h2>
             <p className="text-base sm:text-lg text-text-light max-w-2xl mx-auto px-2 sm:px-0">
-              We're committed to delivering excellence in every project
+              We&apos;re committed to delivering excellence in every project
             </p>
           </motion.div>
 
@@ -322,7 +322,7 @@ export default function Home() {
               What Our Customers Say
             </h2>
             <p className="text-base sm:text-lg text-text-light max-w-2xl mx-auto px-2 sm:px-0">
-              Don't just take our word for it - hear from satisfied customers
+              Don&apos;t just take our word for it - hear from satisfied customers
             </p>
           </motion.div>
 
@@ -347,7 +347,7 @@ export default function Home() {
                   )}
                 </div>
                 <p className="text-base sm:text-lg md:text-xl text-text-dark mb-4 sm:mb-6 italic px-2 sm:px-0">
-                  "{testimonialsData[currentTestimonial].comment}"
+                  &quot;{testimonialsData[currentTestimonial].comment}&quot;
                 </p>
                 <div>
                   <p className="font-semibold text-text-dark text-sm sm:text-base">

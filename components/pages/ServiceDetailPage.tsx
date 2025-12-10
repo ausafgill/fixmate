@@ -116,7 +116,7 @@ export default function ServiceDetailPage({ service }: { service: Service }) {
           animate="visible"
           className="mb-6 sm:mb-8"
         >
-          <h2 className="text-xl sm:text-2xl font-semibold text-text-dark mb-3 sm:mb-4">What's Included</h2>
+          <h2 className="text-xl sm:text-2xl font-semibold text-text-dark mb-3 sm:mb-4">What&apos;s Included</h2>
           <div className="grid grid-cols-1 sm:grid-cols-2 gap-2.5 sm:gap-3">
             {service.features.map((feature, index) => (
               <div
@@ -189,7 +189,7 @@ export default function ServiceDetailPage({ service }: { service: Service }) {
           </h2>
           <p className="text-text-light mb-4 sm:mb-6 max-w-2xl mx-auto text-sm sm:text-base">
             Contact us via WhatsApp to discuss your needs, get a quote, or schedule a service.
-            We're here to help!
+            We&apos;re here to help!
           </p>
           <motion.a
             href={serviceWhatsAppUrl}

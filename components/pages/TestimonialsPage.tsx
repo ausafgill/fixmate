@@ -66,7 +66,7 @@ export default function TestimonialsPage() {
           What Our Clients Say
         </h1>
         <p className="text-base sm:text-lg text-text-light max-w-2xl mx-auto px-2 sm:px-0">
-          Don't just take our word for it — hear from our satisfied customers who trust us with their home maintenance needs
+          Don&apos;t just take our word for it — hear from our satisfied customers who trust us with their home maintenance needs
         </p>
       </motion.div>
 
